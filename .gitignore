@@ -1,2 +1,23 @@
-venv
-new_venv
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.db
+
+# Virtualenv
+venv/
+env/
+
+# MacOS
+.DS_Store
+
+# VS Code / PyCharm
+.idea/
+.vscode/
+
+# Docker
+.dockerignore
+
+# Configs
+.env
